@@ -3,7 +3,7 @@
 Repository displaying basic skills and projects completed for academic, self-learnig and presentation purposes. All the projects are done in iPython Notebooks.
 
 To checkout the essence of the projects and browing the portfolio visually, checkout mayanksinha900.github.io.
-
+<!---
 Instructions for Running Python Notebooks Locally
 Install dependencies using requirements.txt.
 Run notebooks as usual by using a jupyter notebook server, Vscode etc.
@@ -54,3 +54,4 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 Support My Work
 If this project inspired you, gave you ideas for your own portfolio or helped you, please consider buying me a coffee ❤️.
+-->
