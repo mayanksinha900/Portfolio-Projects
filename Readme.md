@@ -49,9 +49,4 @@ R
 ML Logistic Regression: Predicting salary class of a person using logistic regression.
 ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
 I also dabble in all other kinds of technology. You can find a general portfolio here.
-
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at contact@sajalsharma.com.
-
-Support My Work
-If this project inspired you, gave you ideas for your own portfolio or helped you, please consider buying me a coffee ❤️.
 -->
